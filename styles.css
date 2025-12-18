@@ -10,7 +10,7 @@ body{
 header{
     color: white;
     text-align: center;
-    background-color: red;
+    background-color: #2196f3;
     height: 100vh;
     display: flex;
     flex-direction: column;
